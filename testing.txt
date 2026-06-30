@@ -3,3 +3,5 @@ This is the second line in this file.
 This is the third line in this file.
 This line was added in the feature branch.
 I am adding a fourth line on this file from a cloned repo.
+This a merge conflict line added to this updated file.
+
